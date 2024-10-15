@@ -1,6 +1,11 @@
 td, th {
 	border: 1px solid;
   }
+  
+header {
+  position: relative;
+  margin-bottom: 10px;
+}
 
 
 #planets {
@@ -25,11 +30,20 @@ td, th {
 
 
 body {
+  font-family: Arial, Verdana;
+  background-color: #546a6e;
   padding: 20px;
+  
+  
 }
 
 h1 {
   text-align: center;
+  font-family: Muli, Serif;
+  font-size: 3em;
+  color: #485963;
+  font-style: italic;
+  
 }
 
   
