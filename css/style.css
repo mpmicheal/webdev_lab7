@@ -20,6 +20,7 @@ header {
   background-color: #f2f2f2;
   padding: 10px;
   text-align: center;
+  color: #373838;
 }
 
 
@@ -64,9 +65,8 @@ footer {
 .heading {
   text-align: center;
   font-weight: bold;
-  
 }
 
-#box:hover {
-  background-color: #edebdd;
+#planets th:hover {
+  border-bottom: #849191; 
 }
