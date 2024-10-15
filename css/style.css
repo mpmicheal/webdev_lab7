@@ -67,6 +67,6 @@ footer {
   
 }
 
-.box:hover {
+#box:hover {
   background-color: #edebdd;
 }
